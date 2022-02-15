@@ -20,3 +20,13 @@
 - [code 2_05 : match](Chapter2/2_05.rs)
 - [code 2_06 : loopから値を返す](Chapter2/2_06.rs)
 - [code 2_07 : ブロック式から値を返す](Chapter2/2_07.rs)
+
+# 第 3 章 - 基本的なデータ構造体
+
+- [code 3_01 : 構造体](Chapter3/3_01.rs)
+- [code 3_02 : メソッドの定義](Chapter3/3_02.rs)
+- [code 3_03 : メモリの中でデータを作成する](Chapter3/3_03.rs)
+- [code 3_04 : タプルライクな構造体](Chapter3/3_04.rs)
+- [code 3_05 : ユニットライクな構造体](Chapter3/3_05.rs)
+- [code 3_06 : 列挙型](Chapter3/3_06.rs)
+- [code 3_07 : データを持つ列挙型](Chapter3/3_07.rs)
