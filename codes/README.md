@@ -30,3 +30,13 @@
 - [code 3_05 : ユニットライクな構造体](Chapter3/3_05.rs)
 - [code 3_06 : 列挙型](Chapter3/3_06.rs)
 - [code 3_07 : データを持つ列挙型](Chapter3/3_07.rs)
+
+# 第 4 章 - ジェネリック型
+- [code 4_01 : ジェネリック型とは？](Chapter4/4_01.rs)
+- [code 4_02 : 値がないことの表現](Chapter4/4_02.rs)
+- [code 4_03 : Option](Chapter4/4_03.rs)
+- [code 4_04 : Result](Chapter4/4_04.rs)
+- [code 4_05 : 失敗するかもしれないmain](Chapter4/4_05.rs)
+- [code 4_06 : 簡潔なエラー処理](Chapter4/4_06.rs)
+- [code 4_07 : やっつけなOption/Result処理](Chapter4/4_07.rs)
+- [code 4_08 : ベクタ型](Chapter4/4_08.rs)
