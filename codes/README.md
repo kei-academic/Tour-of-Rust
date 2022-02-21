@@ -56,3 +56,17 @@
 - [code 5_12 : 複数のライフタイム](Chapter5/5_12.rs)
 - [code 5_13 : スタティックライフタイム](Chapter5/5_13.rs)
 - [code 5_14 : データ型のライフタイム](Chapter5/5_14.rs)
+
+# 第 6 章 - テキスト
+- [code 6_01 : 文字列リテラル](Chapter6/6_01.rs)
+- [code 6_02 : エスケープ文字](Chapter6/6_02.rs)
+- [code 6_03 : 複数行の文字列リテラル](Chapter6/6_03.rs)
+- [code 6_04 : 生文字列リテラル](Chapter6/6_04.rs)
+- [code 6_05 : ファイルから文字列リテラルを読み込む](Chapter6/6_05.rs)
+- [code 6_06 : 文字列スライス](Chapter6/6_06.rs)
+- [code 6_07 : Chars](Chapter6/6_07.rs)
+- [code 6_08 : String](Chapter6/6_08.rs)
+- [code 6_09 : 関数パラメータとしてのテキスト](Chapter6/6_09.rs)
+- [code 6_10 : 文字列の構築](Chapter6/6_10.rs)
+- [code 6_11 : 文字列フォーマット](Chapter6/6_11.rs)
+- [code 6_12 : 文字列変換](Chapter6/6_12.rs)
